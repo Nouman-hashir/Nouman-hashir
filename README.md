@@ -19,7 +19,7 @@
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mehroz-afzal](https://www.linkedin.com/in/nouman-hashir-0515a8264/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouman-hashir-0515a8264/) 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nouman&icon=0&color=0)](https://visitcount.itsvg.in)
