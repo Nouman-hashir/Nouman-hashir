@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nouman Hashir</h1>
-<h3 align="center">Experienced Flutter Developer for over a year, creating cross-platform mobile apps that run seamlessly on both iOS and Android. Expert in leveraging Dart to build fast and responsive apps.</h3>
+<h3 align="center">Building Mobile Apps That Don’t Just Work — They Scale | Flutter Engineer | Helping Startups Turn Ideas Into Production-Ready Products</h3>
 
-- 🌱 I’m currently learning **Advanced **Flutter State Management (BLoC)** - **Firebase Integration** for real-time apps - **Design Patterns** to improve app architecture**
+- 🌱 I’m currently building applications with **Advanced **Flutter State Management (BLoC)** - **Firebase Integration** for real-time apps - **Design Patterns** to improve app architecture**
 
 - 💬 Ask me about **Flutter, Dart**
 
